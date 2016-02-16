@@ -1,0 +1,45 @@
+{
+  "title": "Tinkerer",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Trap Master",
+      "id": 7,
+      "attr": {
+        "position": [
+          130.5,
+          -13,
+          2
+        ],
+        "style": {}
+      }
+    },
+    "-10": {
+      "title": "Exterminator",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Chemical Specialist",
+          "id": 6,
+          "attr": {
+            "position": [
+              47,
+              -128,
+              1
+            ],
+            "style": {}
+          }
+        }
+      },
+      "attr": {
+        "position": [
+          160.5,
+          -18.020101012677742,
+          1
+        ],
+        "style": {}
+      }
+    }
+  }
+}
