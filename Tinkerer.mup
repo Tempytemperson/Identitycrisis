@@ -16,17 +16,14 @@
               "id": 19
             }
           },
-          "attr": {}
+          "attr": {
+            "style": {}
+          }
         },
         "2": {
           "title": "Arcane Swordsman",
           "id": 17,
           "attr": {
-            "position": [
-              127,
-              60,
-              1
-            ],
             "style": {}
           }
         }
@@ -66,12 +63,7 @@
         }
       },
       "attr": {
-        "style": {},
-        "position": [
-          190,
-          80,
-          1
-        ]
+        "style": {}
       }
     }
   },
